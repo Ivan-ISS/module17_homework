@@ -1,0 +1,21 @@
+{
+  "name": "module17_homework",
+  "version": "1.0.0",
+  "description": "test learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ivan-ISS/module17_homework.git"
+  },
+  "author": "Ivan-ISS",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.23.2",
+    "@babel/preset-env": "^7.23.2",
+    "babel-jest": "^29.7.0",
+    "jest": "^29.7.0"
+  }
+}
