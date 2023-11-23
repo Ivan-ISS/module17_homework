@@ -11,7 +11,7 @@
 3. Тест на граничный случай (*corner case*), когда на вход подается ноль.
 4. Тест на некорректное выполнение функции, когда на вход подается строка, а не число.
 
-**Для запуска проекта и выполнения тестов нужно:**
-    :heavy_check_mark: клонировать себе репозиторий: git clone https://github.com/Ivan-ISS/module17_homework.git;
-    :heavy_check_mark: поставить пакеты: npm install;
-    :heavy_check_mark: для запуска тестов в терминал ввести команду *npm test*.
+**Для запуска проекта и выполнения тестов нужно:**<br>
+&nbsp; :heavy_check_mark: клонировать себе репозиторий: git clone https://github.com/Ivan-ISS/module17_homework.git;<br>
+&nbsp; :heavy_check_mark: поставить пакеты: npm install;<br>
+&nbsp; :heavy_check_mark: для запуска тестов в терминал ввести команду *npm test*.
