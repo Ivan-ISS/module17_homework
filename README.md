@@ -12,6 +12,6 @@
 4. Тест на некорректное выполнение функции, когда на вход подается строка, а не число.
 
 **Для запуска проекта и выполнения тестов нужно:**
-:heavy_check_mark: клонировать себе репозиторий: git clone https://github.com/Ivan-ISS/module17_homework.git;
-:heavy_check_mark: поставить пакеты: npm install;
-:heavy_check_mark: для запуска тестов в терминал ввести команду *npm test*.
+    :heavy_check_mark: клонировать себе репозиторий: git clone https://github.com/Ivan-ISS/module17_homework.git;
+    :heavy_check_mark: поставить пакеты: npm install;
+    :heavy_check_mark: для запуска тестов в терминал ввести команду *npm test*.
